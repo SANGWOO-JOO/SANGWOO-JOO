@@ -18,7 +18,7 @@
 | ------------- | ------------- |
 ### ✏️  BOJ & Blog 
 ---
-| [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=swpeter)](https://solved.ac/swpeter) |📒 Blog & Note <br><br> [![Notion Badge](https://img.shields.io/badge/-Notion-92a8d1?logo=notion&logoColor=white&link=https://www.notion.so/Bio-105b3e3de6de49f0babd3c9e4f3e3c75)](https://)|
+| [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=swpeter)](https://solved.ac/swpeter) |📒 Blog & Note <br><br> [![Notion Badge](https://img.shields.io/badge/-Notion-92a8d1?logo=notion&logoColor=white&link=https://changeable-hornet-96e.notion.site/Steve-s-Blog-fbbd214a579d4abd8a7e43538005a0c1)](https://https://changeable-hornet-96e.notion.site/Steve-s-Blog-fbbd214a579d4abd8a7e43538005a0c1)
 | :------------: | :------------: |
 ---
 <p align="center">
