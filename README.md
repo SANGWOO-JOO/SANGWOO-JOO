@@ -21,6 +21,7 @@
 | [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=swpeter)](https://solved.ac/swpeter) |📒 Blog & Note <br><br> [![Notion Badge](https://img.shields.io/badge/-Notion-92a8d1?logo=notion&logoColor=white&link=https://www.notion.so/Bio-105b3e3de6de49f0babd3c9e4f3e3c75)](https://)|
 | :------------: | :------------: |
 ---
-<center><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSANGWOO-JOO&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></center>
+<p align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSANGWOO-JOO&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=B993D6&height=100&section=footer)
