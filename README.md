@@ -16,10 +16,10 @@
 ---
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SANGWOO-JOO&show_icons=true&include_all_commits=true&theme=highcontrast&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=highcontrast" /></a> |
 | ------------- | ------------- |
-### ✏️  BOJ & Blog 
+### ✏️ Studing 
 ---
-| [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=swpeter)](https://solved.ac/swpeter) |📒 Blog & Note <br><br> [![Notion Badge](https://img.shields.io/badge/-Notion-92a8d1?logo=notion&logoColor=white&link=https://changeable-hornet-96e.notion.site/Steve-s-Blog-fbbd214a579d4abd8a7e43538005a0c1)](https://changeable-hornet-96e.notion.site/Steve-s-Blog-fbbd214a579d4abd8a7e43538005a0c1)
-| :------------: | :------------: |
+| [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=swpeter)](https://solved.ac/swpeter) |📒 Blog & Note <br><br> [![Notion Badge](https://img.shields.io/badge/-Notion-92a8d1?logo=notion&logoColor=white&link=https://changeable-hornet-96e.notion.site/Steve-s-Blog-fbbd214a579d4abd8a7e43538005a0c1)](https://changeable-hornet-96e.notion.site/Steve-s-Blog-fbbd214a579d4abd8a7e43538005a0c1)|📒 Contact me<br><br>  [![Instagram Badge](https://img.shields.io/badge/-Instagram-3f729b?logo=Instagram&logoColor=white&link=https://www.instagram.com/sanbondong/)](https://www.instagram.com/sanbondong/)
+| :------------: | :------------: | :------------: |
 ---
 <p align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSANGWOO-JOO&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></p>
