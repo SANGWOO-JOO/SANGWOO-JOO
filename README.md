@@ -6,6 +6,7 @@
 👥 **함께 성장**하는 개발자가 저의 **가치**입니다.
 
 🔥 오늘도 저의 github를  **초록 동산**으로 만들기 위해 열일 중입니다.
+
 ---
 ###  🛠 Stack
 ---
@@ -20,7 +21,9 @@
 | [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=swpeter)](https://solved.ac/swpeter) | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=highcontrast" /></a> |
 | ------------- | ------------- |
 ---
+
 <p align=center>
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSANGWOO-JOO&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
-</p>
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
