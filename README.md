@@ -19,7 +19,7 @@
 ### ✏️ Studing 
 ---
 | [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=swpeter)](https://solved.ac/swpeter) |📒 Contact me<br><br>  [![Instagram Badge](https://img.shields.io/badge/-Instagram-3f729b?logo=Instagram&logoColor=white&link=https://www.instagram.com/sanbondong/)](https://www.instagram.com/sanbondong/)
-| :------------: | :------------: | :------------: |
+| :------------: | :------------: | 
 ---
 <p align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSANGWOO-JOO&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></p>
