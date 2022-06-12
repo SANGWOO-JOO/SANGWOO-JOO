@@ -18,7 +18,7 @@
 | ------------- | ------------- |
 ### ✏️ Studing 
 ---
-| [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=swpeter)](https://solved.ac/swpeter) |📒 Blog & Note <br><br> [![Notion Badge](https://img.shields.io/badge/-Notion-92a8d1?logo=notion&logoColor=white&link=https://changeable-hornet-96e.notion.site/Steve-s-Blog-fbbd214a579d4abd8a7e43538005a0c1)](https://changeable-hornet-96e.notion.site/Steve-s-Blog-fbbd214a579d4abd8a7e43538005a0c1)|📒 Contact me<br><br>  [![Instagram Badge](https://img.shields.io/badge/-Instagram-3f729b?logo=Instagram&logoColor=white&link=https://www.instagram.com/sanbondong/)](https://www.instagram.com/sanbondong/)
+| [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=swpeter)](https://solved.ac/swpeter) |📒 Contact me<br><br>  [![Instagram Badge](https://img.shields.io/badge/-Instagram-3f729b?logo=Instagram&logoColor=white&link=https://www.instagram.com/sanbondong/)](https://www.instagram.com/sanbondong/)
 | :------------: | :------------: | :------------: |
 ---
 <p align="center">
