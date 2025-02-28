@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=B993D6&height=100&section=header&text=&fontSize=90)
-****👋**** 안녕하세요. 개발자 **주상우** 입니다.  
+****👋**** 안녕하세요.  **주상우** 입니다.  
 ---
 
 
