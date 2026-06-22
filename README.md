@@ -5,8 +5,6 @@
 
 ### 👋 안녕하세요, 운영·성능·품질까지 챙기는 백엔드 개발자 **주상우** 입니다.
 
-<a href="https://www.instagram.com/sanbondong/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
-
 </div>
 
 <br/>
