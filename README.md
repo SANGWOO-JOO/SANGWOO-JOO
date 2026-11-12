@@ -3,68 +3,57 @@
 
 <div align="center">
 
-### 👋 안녕하세요, 백엔드 개발자 **주상우** 입니다.
+### 👋 안녕하세요, 백엔드 개발자 **주상우**입니다.
+
+**AI를 활용해 작업 효율을 극대화**하려고 하고 있습니다.
 
 </div>
 
 <br/>
 
-<!-- ===== TECH STACK ===== -->
+## 🚀 Side Projects
+
+### 🧭 [Next Step](https://github.com/SANGWOO-JOO/next-step) · [서비스 바로가기](https://nextstep-plan.work)
+> 공백 말고, 준비 기간. 이직 준비 기간을 계획하고, 실제로 쓴 시간을 기록하고, 매주 회고하는 서비스
+
+- **혼자 기획부터 운영까지:** Google 로그인 기반 다중 사용자 서비스로 실제 배포(v0.1.2)
+- **AI는 해석만 맡김:** 집계·지표는 코드로 계산하고 Claude Haiku는 그 결과를 해석해 주간 피드백만 작성. 기록이 충분할 때만 호출하고 하루 1번·주 3번으로 제한해 비용과 품질을 함께 관리
+- **키 없는 배포:** 태그 push → GitHub Actions(OIDC) → S3·CloudFront(프론트), SSM(백엔드)
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot%203.5-6DB33F?style=flat&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Claude](https://img.shields.io/badge/Claude%20Haiku-D97757?style=flat&logo=anthropic&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+
+<br/>
+
+### 🎧 [결 gyeol](https://github.com/SANGWOO-JOO/gyeol)
+> 유튜브 청취 기록으로 많이 들은 곡·가수와 들은 시기를 분석하고, 근거를 붙여 곡을 추천하는 서비스
+
+- **RAG가 정말 필요한지 측정:** 추천 이유와 근거가 일치한 비율 RAG 켬 **80%** / 끔 **13%**
+- **규칙 대신 LLM:** 지저분한 영상 제목에서 곡명·가수 추출, 규칙 기반 4/28 → Bedrock tool use **28/28**
+- **실제 데이터로 오류 줄이기:** 실제 청취 기록 기준 처리 오류 31 → **0건**, 원곡 확인 비율 32.0% → **52.2%**
+- **실패에 강한 비동기 처리:** 단계별 SQS 큐 + 실패 큐(DLQ)로 외부 API 실패 격리·재처리
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot%204-6DB33F?style=flat&logo=springboot&logoColor=white)
+![pgvector](https://img.shields.io/badge/PostgreSQL%20pgvector-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Amazon SQS](https://img.shields.io/badge/Amazon%20SQS-FF4F8B?style=flat&logo=amazonsqs&logoColor=white)
+![Bedrock](https://img.shields.io/badge/Bedrock%20Claude-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+
+<br/>
+
 ## 🛠 Tech Stack
 
-<table>
-<tr>
-<td width="200"><b>Backend</b></td>
-<td>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-</td>
-</tr>
-<tr>
-<td><b>Database</b></td>
-<td>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-</td>
-</tr>
-<tr>
-<td><b>DevOps & Cloud</b></td>
-<td>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes%20(K3s)-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</td>
-</tr>
-<tr>
-<td><b>Monitoring</b></td>
-<td>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-</td>
-</tr>
-<tr>
-<td><b>Tools</b></td>
-<td>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ===== GITHUB STATS ===== -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SANGWOO-JOO&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true&card_width=420" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANGWOO-JOO&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" />
-
-</div>
+| 분야 | 기술 |
+|---|---|
+| Backend | Java · Kotlin · Spring Boot · JPA |
+| Database | MySQL · PostgreSQL(pgvector) · Redis |
+| AI | Amazon Bedrock · Claude API · RAG |
+| DevOps & Cloud | AWS · Docker · Kubernetes(K3s) · GitHub Actions |
+| Monitoring | Prometheus · Grafana |
 
 <!-- ===== FOOTER ===== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20&height=120&section=footer" />
