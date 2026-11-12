@@ -45,15 +45,5 @@
 
 <br/>
 
-## 🛠 Tech Stack
-
-| 분야 | 기술 |
-|---|---|
-| Backend | Java · Kotlin · Spring Boot · JPA |
-| Database | MySQL · PostgreSQL(pgvector) · Redis |
-| AI | Amazon Bedrock · Claude API · RAG |
-| DevOps & Cloud | AWS · Docker · Kubernetes(K3s) · GitHub Actions |
-| Monitoring | Prometheus · Grafana |
-
 <!-- ===== FOOTER ===== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20&height=120&section=footer" />
